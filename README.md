@@ -1,4 +1,4 @@
 smart-learn
 ===========
 
-smart-lms
+Initial readme for the smart-lms application.
